@@ -1,4 +1,4 @@
-# Hi there, I'm [Name]! 👋 ✨
+# Hi there, I'm Ge Song! 👋 ✨
 
 🎓 **BME Grad Student** | 🛠️ **Unity & XR Developer**
 
