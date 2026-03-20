@@ -9,6 +9,7 @@
 
 ### 🚀 Current Projects
 * 🦴 Building real-time surgical navigation & AR guidance systems.
+* ✨ CSDN blog：[rrak-rrak](https://blog.csdn.net/m0_63485455?type=blog)
 * 🔬 Lab: [SMU PET Lab](https://wbanle.github.io/)
 
 💌 *Let's build something healthy and cool together!* 🌈
