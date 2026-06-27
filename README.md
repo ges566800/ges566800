@@ -2,14 +2,6 @@
 
 🎓 **BME Grad Student** | 🛠️ **Unity & XR Developer**
 
-### 💻 Tech & Research 🧬
-* 🥽 **XR Dev:** Crafting surgical navigation & medical education apps in **Unity**.
-* 🏥 **Clinical Collab:** Partnering with **Hepatobiliary** & **Orthopedic** departments.
-* ⚙️ **Platform:** Meta Quest & Pico & HoloLens
+🔬 Lab: [SMU PET Lab](https://wbanle.github.io/)
 
-### 🚀 Current Projects
-* 🦴 Building real-time surgical navigation & AR guidance systems.
-* ✨ CSDN blog：[rrak-rrak](https://blog.csdn.net/m0_63485455?type=blog)
-* 🔬 Lab: [SMU PET Lab](https://wbanle.github.io/)
 
-💌 *Let's build something healthy and cool together!* 🌈
