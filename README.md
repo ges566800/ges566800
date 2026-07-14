@@ -1,4 +1,4 @@
-# Hi there, I'm Ge Song! 👋 ✨
+# Hi! 👋 ✨
 
 🎓 **BME Grad Student** | 🛠️ **Unity & XR Developer**
 
